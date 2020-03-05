@@ -10,6 +10,6 @@
 
 * 3rd - Set Git Hub (work with GitHub)
 
-* 4th 01 - Simple Webpage with CSS Styling
+* [4th 01 - Simple Webpage with CSS Styling](https://olehtovkaniuk.github.io/04_simpleWebPage/)
 
 * 4th 02 - Hard Webpage with CSS Styling 
