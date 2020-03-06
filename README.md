@@ -1,6 +1,6 @@
 # OlehTovkaniuk.github.io - Main Page
 
-## Subject:
+## Contents:
 
 * [1st - CV Page](https://olehtovkaniuk.github.io/01_Homework_Resume/)
 
