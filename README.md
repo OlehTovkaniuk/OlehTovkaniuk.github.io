@@ -13,3 +13,9 @@
 * [4th 01 - Simple Webpage with CSS Styling](https://olehtovkaniuk.github.io/04_simpleWebPage/)
 
 * 4th 02 - Hard Webpage with CSS Styling 
+
+* 4th 03 - Finished Smashing HTML Page
+
+* 5th 01 - Finished PSD maket from Lesson #5
+
+* 5th 02 - Homework PSD maket 05_hw_1
