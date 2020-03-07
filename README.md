@@ -16,6 +16,6 @@
 
 * 4th 03 - Finished Smashing HTML Page
 
-* 5th 01 - Finished PSD maket from Lesson #5
+* [5th 01 - Finished PSD maket from Lesson #5](https://olehtovkaniuk.github.io/05_finishedPSDmaketFromLesson5/)
 
 * 5th 02 - Homework PSD maket 05_hw_1
