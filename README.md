@@ -10,12 +10,16 @@
 
 * 3rd - Set Git Hub (work with GitHub)
 
-* [4th 01 - Simple Webpage with CSS Styling](https://olehtovkaniuk.github.io/04_simpleWebPage/)
+* [4th 01 - Simple Webpage With CSS Styling](https://olehtovkaniuk.github.io/04_simpleWebPage/)
 
-* 4th 02 - Hard Webpage with CSS Styling 
+* 4th 02 - Hard Webpage With CSS Styling 
 
 * 4th 03 - Finished Smashing HTML Page
 
-* [5th 01 - Finished PSD maket from Lesson #5](https://olehtovkaniuk.github.io/05_finishedPSDmaketFromLesson5/)
+* [5th 01 - Finished PSD Maket From Lesson #5](https://olehtovkaniuk.github.io/05_finishedPSDmaketFromLesson5/)
 
-* 5th 02 - Homework PSD maket 05_hw_1
+* 5th 02 - Homework PSD Maket 05_hw_1
+
+* 6th 01 - Services.psd
+
+* 6th 02 - Styles For Shoping List 
