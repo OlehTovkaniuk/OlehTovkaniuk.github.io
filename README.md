@@ -22,4 +22,4 @@
 
 * [6th 01 - CSS Selectors - Services.psd](https://olehtovkaniuk.github.io/06_01-cssSelectrors/)
 
-* 6th 02 - CSS Selectors - Styles For Shoping List 
+* [6th 02 - CSS Selectors - Styles For Shoping List](https://olehtovkaniuk.github.io/06_02-cssSelectrors/) 
