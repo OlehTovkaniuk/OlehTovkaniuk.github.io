@@ -12,7 +12,7 @@
 
 * [4th 01 - CSS Intro - Simple Webpage With CSS Styling](https://olehtovkaniuk.github.io/04_simpleWebPage/)
 
-* 4th 02 - CSS Intro - Hard Webpage With CSS Styling 
+* [4th 02 - CSS Intro - Hard Webpage With CSS Styling](https://olehtovkaniuk.github.io/04_hardWebPage/) 
 
 * 4th 03 - CSS Intro - Finished Smashing HTML Page
 
