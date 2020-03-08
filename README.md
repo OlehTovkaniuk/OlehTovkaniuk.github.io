@@ -20,6 +20,6 @@
 
 * 5th 02 - Photoshop - Homework PSD Maket 05_hw_1
 
-* 6th 01 - CSS Selectors - Services.psd
+* [6th 01 - CSS Selectors - Services.psd](https://olehtovkaniuk.github.io/06_01-cssSelectrors/)
 
 * 6th 02 - CSS Selectors - Styles For Shoping List 
