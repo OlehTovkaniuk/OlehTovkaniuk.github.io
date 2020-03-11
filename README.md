@@ -22,4 +22,10 @@
 
 * [6th 01 - CSS Selectors - Services.psd](https://olehtovkaniuk.github.io/06_01-cssSelectrors/)
 
-* [6th 02 - CSS Selectors - Styles For Shoping List](https://olehtovkaniuk.github.io/06_02-cssSelectrors/) 
+* [6th 02 - CSS Selectors - Styles For Shoping List](https://olehtovkaniuk.github.io/06_02-cssSelectrors/)
+
+* [7th 00 -CSS Box Model - Newslatter Form](https://olehtovkaniuk.github.io/07_00_cssBoxModel_newslatter_form/)
+
+* 7th 01 - CSS Box Model
+
+* 7th 02 - CSS Box Model
