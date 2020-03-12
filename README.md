@@ -26,6 +26,6 @@
 
 * [7th 00 -CSS Box Model - Newsletter Form](https://olehtovkaniuk.github.io/07_00_CSSboxModel/index.html)
 
-* 7th 01 - CSS Box Model
+* [7th 01 - CSS Box Model - Hello&Namaste](https://olehtovkaniuk.github.io/07_01_Box_Model_Hello-Namaste_template/index.html)
 
 * 7th 02 - CSS Box Model
