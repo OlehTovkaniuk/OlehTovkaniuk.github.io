@@ -24,7 +24,7 @@
 
 * [6th 02 - CSS Selectors - Styles For Shoping List](https://olehtovkaniuk.github.io/06_02-cssSelectrors/)
 
-* [7th 00 -CSS Box Model - Newsletter Form](https://olehtovkaniuk.github.io/07_00_cssBoxModel_newslatter_form/)
+* [7th 00 -CSS Box Model - Newsletter Form](https://olehtovkaniuk.github.io/07_00_CSSboxModel/index.html)
 
 * 7th 01 - CSS Box Model
 
