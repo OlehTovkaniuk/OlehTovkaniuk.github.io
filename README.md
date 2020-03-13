@@ -32,4 +32,4 @@
 
 * [8th 01 - Flex Box](https://olehtovkaniuk.github.io/08_01_FlexBox/)
 
-* [8th 02 - Flex Box]
+* [8th 02 - Flex Box](https://olehtovkaniuk.github.io/08_02_FlexBox/)
