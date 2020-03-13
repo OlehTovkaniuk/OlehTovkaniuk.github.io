@@ -29,3 +29,7 @@
 * [7th 01 - CSS Box Model - Hello&Namaste](https://olehtovkaniuk.github.io/07_01_Box_Model_Hello-Namaste_template/index.html)
 
 * 7th 02 - CSS Box Model
+
+* [8th 01 - Flex Box](https://olehtovkaniuk.github.io/08_01_FlexBox/)
+
+* [8th 02 - Flex Box]
