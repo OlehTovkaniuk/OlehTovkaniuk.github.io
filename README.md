@@ -28,7 +28,7 @@
 
 * [7th 01 - CSS Box Model - Hello&Namaste](https://olehtovkaniuk.github.io/07_01_Box_Model_Hello-Namaste_template/index.html)
 
-* 7th 02 - CSS Box Model
+* [7th 02 - CSS Box Model](https://olehtovkaniuk.github.io/07_02_BoxModel_WeatherForecast/)
 
 * [8th 01 - Flex Box](https://olehtovkaniuk.github.io/08_01_FlexBox/)
 
