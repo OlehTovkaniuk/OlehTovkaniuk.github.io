@@ -36,4 +36,4 @@
 
 * [9th 01 - Fonts](https://olehtovkaniuk.github.io/09_01_Fonts/)
 
-* 9th 02 - Fonts
+* [9th 02 - Fonts](https://olehtovkaniuk.github.io/09_02_Fonts/)
