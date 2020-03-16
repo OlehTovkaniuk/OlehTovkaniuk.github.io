@@ -33,3 +33,7 @@
 * [8th 01 - Flex Box](https://olehtovkaniuk.github.io/08_01_FlexBox/)
 
 * [8th 02 - Flex Box](https://olehtovkaniuk.github.io/08_02_FlexBox/)
+
+* 9th 01 - Fonts
+
+* 9th 02 - Fonts
