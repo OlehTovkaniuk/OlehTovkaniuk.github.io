@@ -42,4 +42,4 @@
 
 * [10th 02 - Positioning]()
 
-* [10th 03 - Positioning Additional] ()
+* [10th 03 - Positioning Additional](https://olehtovkaniuk.github.io/10_03_Positioning_Additional/)
