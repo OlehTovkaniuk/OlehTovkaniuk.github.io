@@ -46,8 +46,8 @@
 
 * [11th 01 - BEM](https://olehtovkaniuk.github.io/11_01_BEM/)
 
-* [11th 02 - BEM]()
+* [11th 02 - BEM]
 
-* [12th 01 - Forms Building]()
+* [12th 01 - Forms Building](https://olehtovkaniuk.github.io/12_01_Forms_building/)
 
-* [12th 02 - Forms Building]()
+* [12th 02 - Forms Building]
