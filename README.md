@@ -53,3 +53,5 @@
 * [12th 02 - Forms Building]
 
 * [13th 01 - SVG](https://olehtovkaniuk.github.io/13_01_SVG/)
+
+* [Simple website](https://olehtovkaniuk.github.io/simple-website/)
