@@ -55,3 +55,5 @@
 * [13th 01 - SVG](https://olehtovkaniuk.github.io/13_01_SVG/)
 
 * [Simple website](https://olehtovkaniuk.github.io/simple-website/)
+
+* [22th js intro](https://olehtovkaniuk.github.io/22__jsBasics/)
